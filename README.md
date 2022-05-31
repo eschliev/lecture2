@@ -1,2 +1,2 @@
 # lecture2
-test for github
+test for git
